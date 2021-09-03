@@ -2,6 +2,6 @@
 
 ---
 
-<img src="working.gif" height="400" width="400">
+<img src="working.gif" height="700" width="330">
 
 **Package used :** [quick_actions](https://pub.dev/packages/quick_actions)
